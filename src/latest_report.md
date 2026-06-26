@@ -1,7 +1,7 @@
-# Mantle Yield Scout Report — 2026-06-25 14:19 UTC
+# Mantle Yield Scout Report — 2026-06-26 11:56 UTC
 
 ## Summary
-Mantle DeFi scan completed at 2026-06-25 14:19 UTC. Top opportunity: MNT/USDC on Merchant Moe at 28.45% APY. Scanned 0 lending markets and 6 LP pools across 4 protocols.
+Mantle DeFi scan at 2026-06-26 11:56 UTC. Top opportunity: USDT on clearpool-lending at 12.26% APY. Found 37 active pools, total TVL $340,059,172.
 
 ## X Post
 ```
@@ -9,31 +9,22 @@ Mantle DeFi scan completed at 2026-06-25 14:19 UTC. Top opportunity: MNT/USDC on
 
 📊 Top yield opportunities on @Mantle_Official:
 
-1. MNT/USDC (Merchant Moe)
-   APY: 28.45% 🟡
-   TVL: $2,850,000
+1. USDT (clearpool-lending)
+   APY: 12.26% | TVL: $12,630
 
-2. WMNT/WETH (Agni Finance)
-   APY: 22.18% 🟡
-   TVL: $1,820,000
+2. GHO (aave-v3)
+   APY: 9.20% | TVL: $2,408,779
 
-3. MNT/WETH (Merchant Moe)
-   APY: 18.34% 🟡
-   TVL: $1,450,000
+3. USDC (aave-v3)
+   APY: 8.46% | TVL: $1,178,425
 
-4. WMNT/USDC (Agni Finance)
-   APY: 15.67% 🟡
-   TVL: $980,000
+4. USDT0 (aave-v3)
+   APY: 6.52% | TVL: $41,594,115
 
-5. WETH/USDC (Fluxion)
-   APY: 12.45% 🟡
-   TVL: $3,200,000
+5. USDC-WMSTRX (fluxion-network)
+   APY: 5.24% | TVL: $81,389
 
-📈 Protocol TVL:
-  • Aave V3: $40,100,000
-  • Fluxion: $8,400,000
-  • Merchant Moe: $4,300,000
-  • Agni Finance: $2,800,000
+📈 Total Mantle DeFi TVL: $340,059,172
 
 #Mantle #DeFi #OnchainFinance #AIResearchAgent
 ```
